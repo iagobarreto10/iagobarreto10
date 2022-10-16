@@ -37,7 +37,7 @@
 <div>
   <a href="mailto:iagob7186@gmail.com">
     <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#/">
+  <a href="www.linkedin.com/in/iago-barreto">
     <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-1f1f1f.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </a>
 </div>
