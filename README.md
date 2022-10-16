@@ -1,6 +1,6 @@
 #  Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Iago Barreto
 <a href="https://github.com/iagobarreto10">
-  <img align="right" alt="Iago Barreto - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=iagobarreto10&show_icons=true&theme=dark&include_all_commits=true&count_private= true&bg_color=0D1117&icon_color=F4F9FC">
+  <img align="right" alt="Iago Barreto - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=iagobarreto10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 
 -  **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
@@ -12,7 +12,8 @@
 ##  🛠   Habilidades de Desenvolvedor
 
 <a href="https://github.com/iagobarreto10">
-  <img align="right" alt="Iago Barreto - Idiomas mais usados" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobarreto10&layout= compact&langs_count=4&theme=dark&bg_color=0D1117">
+  <img align="right" alt="Iago Barreto- Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobarreto10&layout=compact&langs_count=4&theme=dark&bg_color=0D1117">
+</a>
 </a>
 <br>
 <div>
@@ -43,5 +44,5 @@
 
 <div align="center">
   <a href="https://github.com/iagobarreto10">
-    <img alt="Animação de cobra" src="https://github.com/iagobarreto10/iagobarreto10/blob/output/github-contribution-grid-snake.svg"></a>
+     <img alt="Snake animation" src="https://github.com/iagobarreto10/iagobarreto10/blob/output/github-contribution-grid-snake.svg"></a>
 </div>
