@@ -3,7 +3,7 @@
   <img align="right" alt="Iago Barreto - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=iagobarreto10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 
--  **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
+-  **👨🏽‍🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas**
   
 -  **📚 Estudando Desenvolvimento Web Front-End (React)**
 
